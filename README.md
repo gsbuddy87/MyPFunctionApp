@@ -16,7 +16,8 @@ sudo apt-get install -y dotnet-sdk-9.0
 -	Azure EventHub emulator (https://github.com/Azure/azure-event-hubs-emulator-installer) and azurite (for azure storage emulator) should be available. 
 
 ### Steps
-PFA PDF Document `[embed]/mnt/d/workspaces/python-workspaces/MyPFunctionApp/azure_function_guide.pdf`[embeded] for the detailed instruction
+For step by step instructions, please take a look at teh following PDF file: 
+https://github.com/gsbuddy87/MyPFunctionApp/blob/master/azure_function_guide.pdf
 
 #### Note
 Azure documentation has been used for the reference. 
